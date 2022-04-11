@@ -34,3 +34,8 @@ Powershell based deployment of SQL Server Maintenance Solution
 ## Assumptions
 
 - Credential used for installation has administrative rights to target machines.
+
+## Acknowledgements
+
+- Thanks to SteveCinVA for letting me use his repo code as my basis: https://github.com/SteveCInVA/DeploySQL
+- This solution is based on the Ola Hallengren SQL Server maintenance solution: https://ola.hallengren.com/
